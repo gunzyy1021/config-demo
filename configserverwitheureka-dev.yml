@@ -1,4 +1,7 @@
+spring:
+  application:
+    name: configserverwitheureka
 server:
   port: 9000
 foo:
-  version 1
+  foo version 1
